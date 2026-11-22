@@ -7,6 +7,7 @@ to learn where your project is headed. Replace each _italic prompt_.
 
 _One or two sentences: what is this creature, what does it eat, where does it live,
 and what should playing feel like?_
+Our character is a pizza rat (a rat who eats pizza), when they eat the pizza they're tail grows. It lives in the NYC Subway and we'll see how playing feels like. 
 
 ## Menu choices
 
@@ -14,8 +15,8 @@ Two items from two different groups (see the D4 guide's "The menu" tab).
 
 | Item | Group | Done when (in your words) |
 | --- | --- | --- |
-| _item_ | _group_ | _what you will be able to show_ |
-| _item_ | _group_ | _what you will be able to show_ |
+| _Levels in text files_ | _Language_ | _There will be at least 2 different maps a player can navigate between and play_ |
+| _Powerup_ | _Systems_ | _Three different flavors of pizza that each give your character a different ability, butilt off of a common interface_ |
 
 ## Words we use
 
